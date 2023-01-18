@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Wed, 18 Jan 2023 17:53:18</dateCreated>
+  </head>
+  <body>
+    <outline text="blogs">
+        <outline text="NASA" type="rss" xmlUrl="https://feedx.net/rss/nasa.xml" htmlUrl="https://www.nasa.gov/" description="NASA全文RSS。获取更多全文RSS：https://feedx.net"/>
+        <outline text="Photons to Photos" type="rss" xmlUrl="https://www.photonstophotos.net/rss.xml" htmlUrl="https://www.photonstophotos.net/index.htm" description="Your trusted source for independent sensor data"/>
+        <outline text="少数派" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/feed" description="少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质"/>
+        <outline text="美团技术团队" type="rss" xmlUrl="https://rsshub.rssforever.com/meituan/tech/home" htmlUrl="https://tech.meituan.com/feed/" description="美团技术团队最近更新内容。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      </outline>
+  </body>
+</opml>
