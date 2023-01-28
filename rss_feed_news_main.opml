@@ -12,7 +12,7 @@
       <outline text="财新数据通 - 专享资讯" type="rss" xmlUrl="https://rsshub.rssforever.com/caixin/database" />
       <outline text="财新网 - 最新文章" type="rss" xmlUrl="https://rsshub.rssforever.com/caixin/latest" />
       <outline text="蓝点网" type="rss" xmlUrl="https://www.landiannews.com/feed" />
-      <outline text="财联社 - 电报" type="rss" xmlUrl="https://rsshub.app/cls/telegraph" />
+      <outline text="财联社 - 电报" type="rss" xmlUrl="https://rsshub.rssforever.com/cls/telegraph" />
     </outline>
   </body>
 </opml>
