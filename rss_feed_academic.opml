@@ -2,7 +2,7 @@
 <opml version="2.0">
   <body>
     <outline text="academic">
-      <outline text="arxiv" type="rss" xmlUrl="https://rsshub.app/arxiv/search_query=all%25start=0%25max_results=100" htmlUrl="http://arxiv.org/" description=""/>
+      <outline text="arxiv" type="rss" xmlUrl="https://rsshub.app/arxiv/search_query=all&amp;start=0&amp;max_results=100" htmlUrl="http://arxiv.org/" description=""/>
       </outline>
   </body>
 </opml>
