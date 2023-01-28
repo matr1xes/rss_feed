@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Wed, 18 Jan 2023 17:53:18</dateCreated>
+  </head>
+  <body>
+    <outline text="academic">
+      <outline text="arxiv" type="rss" xmlUrl="https://rsshub.app/arxiv/search_query=all&start=0&max_results=100" htmlUrl="http://arxiv.org/" description=""/>
+      </outline>
+  </body>
+</opml>
