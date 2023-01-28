@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
-  <head>
-    <title>FreshRSS</title>
-    <dateCreated>Wed, 18 Jan 2023 17:53:18</dateCreated>
-  </head>
   <body>
-    <outline text="特别关注">
+    <outline text="spot_on">
       <outline text="Kang的微博" type="rss" xmlUrl="https://rsshub.rssforever.com/weibo/user/1694917363/readable=1&amp;displayVideo=1&amp;displayArticle=1&amp;displayComments=1&amp;showEmojiInDescription=1" htmlUrl="http://weibo.com/1694917363/"/>
       <outline text="LoneSchicksal的微博" type="rss" xmlUrl="https://rsshub.rssforever.com/weibo/user/1645776681/readable=1&amp;displayVideo=1&amp;displayArticle=1&amp;displayComments=1&amp;showEmojiInDescription=1" htmlUrl="https://weibo.com/1645776681/"/>
       <outline text="深圳地铁的微博" type="rss" xmlUrl="https://rsshub.rssforever.com/weibo/user/2311331195/readable=1&amp;displayVideo=1&amp;displayArticle=1&amp;displayComments=1&amp;showEmojiInDescription=1" htmlUrl="https://weibo.com/2311331195/"/>

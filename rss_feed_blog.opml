@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
-  <head>
-    <title>FreshRSS</title>
-    <dateCreated>Wed, 18 Jan 2023 17:53:18</dateCreated>
-  </head>
   <body>
     <outline text="blogs">
         <outline text="NASA" type="rss" xmlUrl="https://feedx.net/rss/nasa.xml" htmlUrl="https://www.nasa.gov/"/>

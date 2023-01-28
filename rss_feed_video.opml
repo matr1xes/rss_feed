@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
-  <head>
-    <title>FreshRSS</title>
-    <dateCreated>Wed, 18 Jan 2023 17:53:18</dateCreated>
-  </head>
   <body>
-    <outline text="视频">
+    <outline text="video">
       <outline text="38号不只会评车 的 bilibili 空间" type="rss" xmlUrl="https://rss.itggg.cn/bilibili/user/video/1610449831" htmlUrl="https://space.bilibili.com/1610449831"/>
       <outline text="38号车评中心 - YouTube" type="rss" xmlUrl="https://rsshub.uneasy.win/youtube/channel/UC6yQk_jKtwXbc2324JsXGHA" htmlUrl="https://www.youtube.com/channel/UC6yQk_jKtwXbc2324JsXGHA"/>
       <outline text="38号车评中心官方账号 的 bilibili 空间" type="rss" xmlUrl="https://rsshub.moonagic.com/bilibili/user/video/39736779" htmlUrl="https://space.bilibili.com/39736779"/>
