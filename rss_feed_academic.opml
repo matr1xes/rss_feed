@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <body>
-    <outline text="academic">
-      <outline text="arxiv" type="rss" xmlUrl="https://rsshub.app/arxiv/search_query=all&amp;start=0&amp;max_results=100" htmlUrl="http://arxiv.org/" description=""/>
-      </outline>
+    <outline text="学术">
+        <outline text="arxiv" type="rss" xmlUrl="https://rsshub.app/arxiv/search_query=all&amp;start=0&amp;max_results=100" htmlUrl="http://arxiv.org/" description="arXiv (search_query=all&amp;start=0&amp;max_results=100) - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+    </outline>
   </body>
 </opml>
