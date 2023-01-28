@@ -2,10 +2,10 @@
 <opml version="2.0">
   <body>
     <outline text="blogs">
-        <outline text="NASA" type="rss" xmlUrl="https://feedx.net/rss/nasa.xml" htmlUrl="https://www.nasa.gov/"/>
-        <outline text="Photons to Photos" type="rss" xmlUrl="https://www.photonstophotos.net/rss.xml" htmlUrl="https://www.photonstophotos.net/index.htm"/>
-        <outline text="少数派" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/feed"/>
-        <outline text="美团技术团队" type="rss" xmlUrl="https://rsshub.rssforever.com/meituan/tech/home" htmlUrl="https://tech.meituan.com/feed/"/>
+        <outline text="NASA" type="rss" xmlUrl="https://feedx.net/rss/nasa.xml"/>
+        <outline text="Photons to Photos" type="rss" xmlUrl="https://www.photonstophotos.net/rss.xml"/>
+        <outline text="少数派" type="rss" xmlUrl="https://sspai.com/feed"/>
+        <outline text="美团技术团队" type="rss" xmlUrl="https://rsshub.rssforever.com/meituan/tech/home"/>
       </outline>
   </body>
 </opml>

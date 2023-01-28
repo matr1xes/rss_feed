@@ -2,17 +2,17 @@
 <opml version="2.0">
   <body>
     <outline text="main_news">
-      <outline text="3DM - 新闻中心" type="rss" xmlUrl="https://rsshub.rssforever.com/3dm/news" htmlUrl="http://www.3dmgame.com/news/" />
-      <outline text="cnBeta.COM" type="rss" xmlUrl="https://rsshub.app/cnbeta" htmlUrl="https://www.cnbeta.com.tw/"  frss:cssFullContent="#artibody"/>
-      <outline text="今日关注 - 网易新闻" type="rss" xmlUrl="https://plink.anyfeeder.com/netease/today" htmlUrl="https://wp.m.163.com/163/html/newsapp/todayFocus/index.html" />
-      <outline text="奇客Solidot–传递最新科技情报" type="rss" xmlUrl="https://www.solidot.org/index.rss" htmlUrl="https://www.solidot.org/" />
-      <outline text="游民星空-今日推荐" type="rss" xmlUrl="https://rsshub.rssforever.com/gamersky/news" htmlUrl="https://www.gamersky.com/news/"  frss:cssFullContent=".Mid2L_con"/>
-      <outline text="滚动新闻 - C114通信网" type="rss" xmlUrl="https://rsshub.uneasy.win/c114/roll" htmlUrl="https://www.c114.com.cn/news/roll.asp" />
-      <outline text="澎湃新闻 - 首页头条" type="rss" xmlUrl="https://rsshub.rssforever.com/thepaper/featured?filterout_title=newsDetail_forward" htmlUrl="https://m.thepaper.cn/channel_25949"  frss:cssFullContent=".newsdetail_content"/>
-      <outline text="财新数据通 - 专享资讯" type="rss" xmlUrl="https://rsshub.rssforever.com/caixin/database" htmlUrl="https://database.caixin.com/news" />
-      <outline text="财新网 - 最新文章" type="rss" xmlUrl="https://rsshub.rssforever.com/caixin/latest" htmlUrl="http://www.caixin.com/" />
-      <outline text="蓝点网" type="rss" xmlUrl="https://www.landiannews.com/feed" htmlUrl="https://www.landiannews.com/" />
-      <outline text="财联社 - 电报" type="rss" xmlUrl="https://rsshub.app/cls/telegraph" htmlUrl="https://www.cls.cn/telegraph" />
+      <outline text="3DM - 新闻中心" type="rss" xmlUrl="https://rsshub.rssforever.com/3dm/news" />
+      <outline text="cnBeta.COM" type="rss" xmlUrl="https://rsshub.rssforever.com/cnbeta"  frss:cssFullContent="#artibody"/>
+      <outline text="今日关注 - 网易新闻" type="rss" xmlUrl="https://plink.anyfeeder.com/netease/today" />
+      <outline text="奇客Solidot–传递最新科技情报" type="rss" xmlUrl="https://www.solidot.org/index.rss" />
+      <outline text="游民星空-今日推荐" type="rss" xmlUrl="https://rsshub.rssforever.com/gamersky/news"  frss:cssFullContent=".Mid2L_con"/>
+      <outline text="滚动新闻 - C114通信网" type="rss" xmlUrl="https://rsshub.uneasy.win/c114/roll" />
+      <outline text="澎湃新闻 - 首页头条" type="rss" xmlUrl="https://rsshub.rssforever.com/thepaper/featured?filterout_title=newsDetail_forward"  frss:cssFullContent=".newsdetail_content"/>
+      <outline text="财新数据通 - 专享资讯" type="rss" xmlUrl="https://rsshub.rssforever.com/caixin/database" />
+      <outline text="财新网 - 最新文章" type="rss" xmlUrl="https://rsshub.rssforever.com/caixin/latest" />
+      <outline text="蓝点网" type="rss" xmlUrl="https://www.landiannews.com/feed" />
+      <outline text="财联社 - 电报" type="rss" xmlUrl="https://rsshub.app/cls/telegraph" />
     </outline>
   </body>
 </opml>
