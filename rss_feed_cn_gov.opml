@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <body>
+    <outline text="cn_gov">
+      <outline text="国家发改委" type="rss" xmlUrl="https://rsshub.rssforever.com/gov/ndrc/xwdt"/>
+      <outline text="国家教育部-政策解读" type="rss" xmlUrl="https://rsshub.rssforever.com/gov/moe/policy_anal"/>
+      <outline text="国家教育部-最新文件" type="rss" xmlUrl="https://rsshub.rssforever.com/gov/moe/newest_file"/>
+      <outline text="国家教育部-公告公示" type="rss" xmlUrl="https://rsshub.rssforever.com/gov/moe/notice"/>
+      <outline text="国家教育部-简报" type="rss" xmlUrl="https://rsshub.rssforever.com/gov/moe/edu_ministry_news"/>
+      
+    </outline>
+  </body>
+</opml>
