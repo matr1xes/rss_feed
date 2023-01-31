@@ -2,8 +2,7 @@
 <opml version="2.0">
   <body>
     <outline text="flash">
-      <outline text="3DM - 新闻中心" type="rss" xmlUrl="https://rsshub.rssforever.com/3dm/news" />
-      <outline text="游民星空-今日推荐" type="rss" xmlUrl="https://rsshub.rssforever.com/gamersky/news"  frss:cssFullContent=".Mid2L_con"/>
+      <outline text="财联社-电报" type="rss" xmlUrl="https://rsshub.rssforever.com/cls/telegraph"/>
       <outline text="澎湃新闻 - 首页头条" type="rss" xmlUrl="https://rsshub.rssforever.com/thepaper/featured?filterout_title=newsDetail_forward"  frss:cssFullContent=".newsdetail_content"/>
     </outline>
   </body>
