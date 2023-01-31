@@ -3,13 +3,14 @@
   <body>
     <outline text="main">
       <outline text="cnBeta.COM" type="rss" xmlUrl="https://rsshub.rssforever.com/cnbeta"  frss:cssFullContent="#artibody"/>
-      <outline text="今日关注 - 网易新闻" type="rss" xmlUrl="https://plink.anyfeeder.com/netease/today" />
-      <outline text="奇客Solidot–传递最新科技情报" type="rss" xmlUrl="https://www.solidot.org/index.rss" />
-      <outline text="滚动新闻 - C114通信网" type="rss" xmlUrl="https://rsshub.uneasy.win/c114/roll" />
-      <outline text="财新数据通 - 专享资讯" type="rss" xmlUrl="https://rsshub.rssforever.com/caixin/database" />
-      <outline text="财新网 - 最新文章" type="rss" xmlUrl="https://rsshub.rssforever.com/caixin/latest" />
-      <outline text="蓝点网" type="rss" xmlUrl="https://www.landiannews.com/feed" />
-      <outline text="财联社 - 电报" type="rss" xmlUrl="https://rsshub.rssforever.com/cls/telegraph" />
+      <outline text="网易新闻-今日关注" type="rss" xmlUrl="https://plink.anyfeeder.com/netease/today"/>
+      <outline text="奇客 Solidot" type="rss" xmlUrl="https://www.solidot.org/index.rss"/>
+      <outline text="C114通信网-滚动新闻" type="rss" xmlUrl="https://rsshub.uneasy.win/c114/roll"/>
+      <outline text="财新数据通-专享资讯" type="rss" xmlUrl="https://rsshub.rssforever.com/caixin/database"/>
+      <outline text="财新网-最新文章" type="rss" xmlUrl="https://rsshub.rssforever.com/caixin/latest"/>
+      <outline text="蓝点网" type="rss" xmlUrl="https://www.landiannews.com/feed"/>
+      <outline text="财联社-电报" type="rss" xmlUrl="https://rsshub.rssforever.com/cls/telegraph"/>
+      <outline text="联合早报-中国" type="rss" xmlUrl="https://rsshub.rssforever.com/zaobao/znews/china"/>
     </outline>
   </body>
 </opml>
