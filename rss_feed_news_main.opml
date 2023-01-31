@@ -11,6 +11,8 @@
       <outline text="蓝点网" type="rss" xmlUrl="https://www.landiannews.com/feed"/>
       <outline text="财联社-电报" type="rss" xmlUrl="https://rsshub.rssforever.com/cls/telegraph"/>
       <outline text="联合早报-中国" type="rss" xmlUrl="https://rsshub.rssforever.com/zaobao/znews/china"/>
+      <outline text="华尔街日报" type="rss" xmlUrl="https://rsshub.rssforever.com/wsj/zh-cn/opinion"/>
+      <outline text="南华早报" type="rss" xmlUrl="https://rsshub.rssforever.com/scmp/3"/>
     </outline>
   </body>
 </opml>
