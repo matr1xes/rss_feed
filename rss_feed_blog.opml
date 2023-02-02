@@ -4,7 +4,7 @@
     <outline text="blogs">
         <outline text="NASA" type="rss" xmlUrl="https://feedx.net/rss/nasa.xml"/>
         <outline text="Photons to Photos" type="rss" xmlUrl="https://www.photonstophotos.net/rss.xml"/>
-        <outline text="少数派" type="rss" xmlUrl="https://sspai.com/feed"/>
+        <outline text="少数派" type="rss" xmlUrl="https://sspai.com/feed" frss:cssFullContent=".content"/>
         <outline text="美团技术团队" type="rss" xmlUrl="https://rsshub.rssforever.com/meituan/tech/home"/>
       </outline>
   </body>

@@ -9,7 +9,7 @@
       <outline text="财新数据通-专享资讯" type="rss" xmlUrl="https://rsshub.rssforever.com/caixin/database"/>
       <outline text="财新网-最新文章" type="rss" xmlUrl="https://rsshub.rssforever.com/caixin/latest"/>
       <outline text="蓝点网" type="rss" xmlUrl="https://www.landiannews.com/feed"/>
-      <outline text="联合早报-中国" type="rss" xmlUrl="https://rsshub.rssforever.com/zaobao/znews/china"/>
+      <outline text="联合早报-中国" type="rss" xmlUrl="https://rsshub.rssforever.com/zaobao/znews/china" frss:cssFullContent=".article-body"/>
       <outline text="华尔街日报" type="rss" xmlUrl="https://rsshub.rssforever.com/wsj/zh-cn/opinion"/>
       <outline text="南华早报" type="rss" xmlUrl="https://rsshub.rssforever.com/scmp/3"/>
     </outline>
