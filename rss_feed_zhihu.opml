@@ -2,49 +2,49 @@
 <opml version="2.0">
   <body>
     <outline text="知乎">
-      <outline text="李楠的知乎动态" type="rss" xmlUrl="https://hub.slarker.me/zhihu/people/activities/linan"/>
-      <outline text="Thoughtworks中国的知乎动态" type="rss" xmlUrl="https://rsshub.rssforever.com/zhihu/people/activities/thoughtworks-zhong-guo"/>
-      <outline text="三星带花的知乎动态" type="rss" xmlUrl="https://rsshub.moonagic.com/zhihu/people/activities/arnold-59-7"/>
-      <outline text="Starkwang的知乎动态" type="rss" xmlUrl="https://rsshub.rssforever.com/zhihu/people/activities/starkwang0131"/>
-      <outline text="沟小沟的知乎动态" type="rss" xmlUrl="https://hub.slarker.me/zhihu/people/activities/haugenzhays"/>
-      <outline text="MarginalLab的知乎动态" type="rss" xmlUrl="https://rss.hanblog.xyz/zhihu/people/activities/marginallab"/>
-      <outline text="DataFunTalk的知乎动态" type="rss" xmlUrl="https://rss.ucasser.cn/zhihu/people/activities/datafuntalk"/>
-      <outline text="Euphemia的知乎动态" type="rss" xmlUrl="https://mybox.freenetv.com/zhihu/people/activities/yao-rui-ling-83"/>
-      <outline text="Flink 中文社区的知乎动态" type="rss" xmlUrl="https://rss.itggg.cn/zhihu/people/activities/ververica"/>
-      <outline text="J Pan的知乎动态" type="rss" xmlUrl="https://rss.hanblog.xyz/zhihu/people/activities/galieluo"/>
-      <outline text="Karminski-牙医的知乎动态" type="rss" xmlUrl="https://rsshub.rssforever.com/zhihu/people/activities/karminski"/>
-      <outline text="Kevin的知乎动态" type="rss" xmlUrl="https://mybox.freenetv.com/zhihu/people/activities/kevin-18-73"/>
-      <outline text="Mapping的知乎动态" type="rss" xmlUrl="https://rss.itggg.cn/zhihu/people/activities/Tristan-da-Cunha"/>
-      <outline text="Mr厉害的知乎动态" type="rss" xmlUrl="https://rss.itggg.cn/zhihu/people/activities/mrli-hai"/>
-      <outline text="Odysseus的知乎动态" type="rss" xmlUrl="https://rsshub.uneasy.win/zhihu/people/activities/vinnesota"/>
-      <outline text="Rio的知乎动态" type="rss" xmlUrl="https://rsshub.uneasy.win/zhihu/people/activities/rio"/>
-      <outline text="Shing Chengyui的知乎动态" type="rss" xmlUrl="https://rsshub.170601.xyz/zhihu/people/activities/cheng-zheng-rui"/>
-      <outline text="YJango的知乎动态" type="rss" xmlUrl="https://mybox.freenetv.com/zhihu/people/activities/YJango"/>
-      <outline text="Yingjun Wu的知乎动态" type="rss" xmlUrl="https://rss.ucasser.cn/zhihu/people/activities/yingjunwu"/>
-      <outline text="doodlewind的知乎动态" type="rss" xmlUrl="https://rsshub.170601.xyz/zhihu/people/activities/doodlewind"/>
-      <outline text="justjavac的知乎动态" type="rss" xmlUrl="https://rsshub.rssforever.com/zhihu/people/activities/justjavac.com"/>
-      <outline text="talich的知乎动态" type="rss" xmlUrl="https://rss.ucasser.cn/zhihu/people/activities/talich"/>
-      <outline text="万万为个什么的知乎动态" type="rss" xmlUrl="http://rss.ucasser.cn/zhihu/people/activities/whyknow10wan"/>
-      <outline text="万物杂志的知乎动态" type="rss" xmlUrl="https://rss.ucasser.cn/zhihu/people/activities/ba-ke-xue-dai-hui-jia"/>
-      <outline text="三符的知乎动态" type="rss" xmlUrl="https://rsshub.moonagic.com/zhihu/people/activities/yinfupai"/>
-      <outline text="古都闲云的知乎动态" type="rss" xmlUrl="https://rss.ucasser.cn/zhihu/people/activities/gududatong"/>
-      <outline text="吴乐旻的知乎动态" type="rss" xmlUrl="https://hub.slarker.me/zhihu/people/activities/wulemin"/>
-      <outline text="天涯明月刀的知乎动态" type="rss" xmlUrl="https://rsshub.uneasy.win/zhihu/people/activities/tianya_mingyue_dao"/>
-      <outline text="宁南山的知乎动态" type="rss" xmlUrl="https://hub.slarker.me/zhihu/people/activities/ningnanshan"/>
-      <outline text="小P说相机的知乎动态" type="rss" xmlUrl="https://rsshub.uneasy.win/zhihu/people/activities/iRentals-Test"/>
-      <outline text="尤雨溪的知乎动态" type="rss" xmlUrl="https://hub.slarker.me/zhihu/people/activities/evanyou"/>
-      <outline text="杨健的知乎动态" type="rss" xmlUrl="https://rss.ucasser.cn/zhihu/people/activities/hardfist"/>
-      <outline text="梅启铭(vczh)的知乎动态" type="rss" xmlUrl="https://rss.hanblog.xyz/zhihu/people/activities/excited-vczh"/>
-      <outline text="汪超骏的知乎动态" type="rss" xmlUrl="https://rsshub.moonagic.com/zhihu/people/activities/ike_wang"/>
-      <outline text="王克丹的知乎动态" type="rss" xmlUrl="https://rss.itggg.cn/zhihu/people/activities/wang-ke-dan-13"/>
-      <outline text="电气小混混的知乎动态" type="rss" xmlUrl="https://rss.itggg.cn/zhihu/people/activities/francisqu"/>
-      <outline text="真诚的知乎动态" type="rss" xmlUrl="https://rss.ucasser.cn/zhihu/people/activities/xia-yu-88-93"/>
-      <outline text="罗勇的知乎动态" type="rss" xmlUrl="https://rsshub.uneasy.win/zhihu/people/activities/luo-yong-4-1"/>
-      <outline text="罗马大绿棒子的知乎动态" type="rss" xmlUrl="https://rsshub.170601.xyz/zhihu/people/activities/david-zhang-53"/>
-      <outline text="芯动的信号的知乎动态" type="rss" xmlUrl="https://mybox.freenetv.com/zhihu/people/activities/song-chen-fei-30"/>
-      <outline text="金融四十人论坛的知乎动态" type="rss" xmlUrl="https://rsshub.170601.xyz/zhihu/people/activities/jin-rong-si-shi-ren-lun-tan"/>
-      <outline text="顾扯淡的知乎动态" type="rss" xmlUrl="https://rss.hanblog.xyz/zhihu/people/activities/gu-che-dan"/>
-      <outline text="马伯庸的知乎动态" type="rss" xmlUrl="https://rss.ucasser.cn/zhihu/people/activities/ma-bo-yong"/>
+      <outline text="李楠的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/linan"/>
+      <outline text="Thoughtworks中国的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/thoughtworks-zhong-guo"/>
+      <outline text="三星带花的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/arnold-59-7"/>
+      <outline text="Starkwang的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/starkwang0131"/>
+      <outline text="沟小沟的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/haugenzhays"/>
+      <outline text="MarginalLab的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/marginallab"/>
+      <outline text="DataFunTalk的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/datafuntalk"/>
+      <outline text="Euphemia的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/yao-rui-ling-83"/>
+      <outline text="Flink 中文社区的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/ververica"/>
+      <outline text="J Pan的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/galieluo"/>
+      <outline text="Karminski-牙医的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/karminski"/>
+      <outline text="Kevin的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/kevin-18-73"/>
+      <outline text="Mapping的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/Tristan-da-Cunha"/>
+      <outline text="Mr厉害的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/mrli-hai"/>
+      <outline text="Odysseus的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/vinnesota"/>
+      <outline text="Rio的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/rio"/>
+      <outline text="Shing Chengyui的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/cheng-zheng-rui"/>
+      <outline text="YJango的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/YJango"/>
+      <outline text="Yingjun Wu的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/yingjunwu"/>
+      <outline text="doodlewind的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/doodlewind"/>
+      <outline text="justjavac的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/justjavac.com"/>
+      <outline text="talich的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/talich"/>
+      <outline text="万万为个什么的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/whyknow10wan"/>
+      <outline text="万物杂志的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/ba-ke-xue-dai-hui-jia"/>
+      <outline text="三符的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/yinfupai"/>
+      <outline text="古都闲云的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/gududatong"/>
+      <outline text="吴乐旻的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/wulemin"/>
+      <outline text="天涯明月刀的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/tianya_mingyue_dao"/>
+      <outline text="宁南山的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/ningnanshan"/>
+      <outline text="小P说相机的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/iRentals-Test"/>
+      <outline text="尤雨溪的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/evanyou"/>
+      <outline text="杨健的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/hardfist"/>
+      <outline text="梅启铭(vczh)的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/excited-vczh"/>
+      <outline text="汪超骏的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/ike_wang"/>
+      <outline text="王克丹的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/wang-ke-dan-13"/>
+      <outline text="电气小混混的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/francisqu"/>
+      <outline text="真诚的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/xia-yu-88-93"/>
+      <outline text="罗勇的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/luo-yong-4-1"/>
+      <outline text="罗马大绿棒子的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/david-zhang-53"/>
+      <outline text="芯动的信号的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/song-chen-fei-30"/>
+      <outline text="金融四十人论坛的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/jin-rong-si-shi-ren-lun-tan"/>
+      <outline text="顾扯淡的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/gu-che-dan"/>
+      <outline text="马伯庸的知乎动态" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/zhihu/people/activities/ma-bo-yong"/>
     </outline>
   </body>
 </opml>
