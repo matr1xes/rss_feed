@@ -22,6 +22,7 @@
       <outline text="阑夕-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/foxshuo/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1"/>
       
       <outline text="新闻极简主义" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml"/>
+      <outline text="海德沙龙（HeadSalon）" type="rss" xmlUrl="https://headsalon.org/feed"/>
 
     </outline>
   </body>
