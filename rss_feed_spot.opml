@@ -13,13 +13,13 @@
       <outline text="Degg_GlobalMacroFin的微博" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/weibo/user/2453509265/readable=1&amp;displayVideo=1&amp;displayArticle=1&amp;displayComments=1&amp;showEmojiInDescription=1"/>
       <outline text="付鹏的财经世界的微博" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/weibo/user/1769173661/readable=1&amp;displayVideo=1&amp;displayArticle=1&amp;displayComments=1&amp;showEmojiInDescription=1"/>
     
-      <outline text="王志安-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/wangzhian8848/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1"/>
-      <outline text="Hao HONG 洪灝, CFA-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/HAOHONG_CFA/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1"/>
-      <outline text="fengchucheng-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/fengchucheng/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1"/>
-      <outline text="MJFinance-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/MJ96230328/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1"/>
-      <outline text="徐冲浪-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/xcl2022/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1"/>
-      <outline text="花总-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/realhuazong/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1"/>
-      <outline text="阑夕-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/foxshuo/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1"/>
+      <outline text="王志安-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/wangzhian8848/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1&amp;authorNameBold=1&amp;showQuotedAuthorAvatarInDesc=1&amp;showAuthorAvatarInDesc=1"/>
+      <outline text="Hao HONG 洪灝, CFA-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/HAOHONG_CFA/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1&amp;authorNameBold=1&amp;showQuotedAuthorAvatarInDesc=1&amp;showAuthorAvatarInDesc=1"/>
+      <outline text="fengchucheng-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/fengchucheng/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1&amp;authorNameBold=1&amp;showQuotedAuthorAvatarInDesc=1&amp;showAuthorAvatarInDesc=1"/>
+      <outline text="MJFinance-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/MJ96230328/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1&amp;authorNameBold=1&amp;showQuotedAuthorAvatarInDesc=1&amp;showAuthorAvatarInDesc=1"/>
+      <outline text="徐冲浪-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/xcl2022/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1&amp;authorNameBold=1&amp;showQuotedAuthorAvatarInDesc=1&amp;showAuthorAvatarInDesc=1"/>
+      <outline text="花总-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/realhuazong/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1&amp;authorNameBold=1&amp;showQuotedAuthorAvatarInDesc=1&amp;showAuthorAvatarInDesc=1"/>
+      <outline text="阑夕-twitter" type="rss" xmlUrl="https://rss-hub-rust-beta.vercel.app/twitter/user/foxshuo/readable=1&amp;showTimestampInDescription=1&amp;includeRts=1&amp;authorNameBold=1&amp;showQuotedAuthorAvatarInDesc=1&amp;showAuthorAvatarInDesc=1"/>
       
       <outline text="新闻极简主义" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml"/>
       <outline text="海德沙龙（HeadSalon）" type="rss" xmlUrl="https://headsalon.org/feed"/>
