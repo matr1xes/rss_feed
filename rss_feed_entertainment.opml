@@ -2,7 +2,7 @@
 <opml version="2.0">
   <body>
     <outline text="entertainment">
-      <outline text="3DM - 新闻中心" type="rss" xmlUrl="https://rsshub.rssforever.com/3dm/news" />
+      <outline text="3DM - 新闻中心" type="rss" xmlUrl="https://rsshub.rssforever.com/3dmgame/news" />
       <outline text="游民星空-今日推荐" type="rss" xmlUrl="https://rsshub.rssforever.com/gamersky/news"  frss:cssFullContent=".Mid2L_con"/>
       <outline text="blu-ray" type="rss" xmlUrl="https://www.blu-ray.com/rss/reviewfeed.xml" frss:cssFullContent="#movie_review_intro,#movie_review_video,#movie_review_audio,#movie_review_extras,#movie_review_overall"/>
     </outline>
